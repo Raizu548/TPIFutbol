@@ -19,7 +19,6 @@
                 {{-- Jugadores agregado por js --}}
             </tbody> 
         </table> 
-        {{-- <button id="agregar_jugador" onclick="window.location.href='{{ route('agregarJugador') }}'">Añadir nuevo Juegor</button> --}}
         <button id="agregar_jugador" onclick="redirigirAgregarJugador()">Añadir nuevo Juegor</button>
     </div>
 
